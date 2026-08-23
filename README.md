@@ -40,14 +40,6 @@ Banco de Dados SQL do Zero ao Avançado
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheuszanellasma&show_icons=true&theme=dark&locale=pt-br)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszanellasma&layout=compact&theme=dark&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas)
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 🌐 Automação Web, API e Performance — ServeRest (Playwright)
