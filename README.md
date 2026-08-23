@@ -8,16 +8,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 
 ---
 
-#### 📜 Certificações
-
-- **Formação em Quality Assurance (QA) — Qazando / UNIFATEC**
-Fundamentos de QA · Tipos e Técnicas de Teste · BDD · Testes Funcionais e Não Funcionais · Testes Exploratórios e de Regressão (164h)
-
-- **SQL — Udemy**
-Banco de Dados SQL do Zero ao Avançado
-
----
-
 #### 📬 Contato
 
 [![](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-koehler-zanella)
