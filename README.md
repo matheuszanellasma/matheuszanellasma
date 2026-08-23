@@ -27,16 +27,24 @@ Banco de Dados SQL do Zero ao Avançado
 
 ### 🤖 Linguagens, Tecnologias e Ferramentas
 
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg)](https://git-scm.com)
-[![GitHub](https://www.svgrepo.com/show/353783/github-octocat.svg)](https://github.com)
-[![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg)](https://code.visualstudio.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
-[![Cypress](https://www.svgrepo.com/show/439131/cypress.svg)](https://www.cypress.io)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io)
 [![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)](https://robotframework.org)
-[![k6](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg)](https://k6.io)
-[![Mocha](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-plain.svg)](https://mochajs.org)
+[![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)](https://k6.io)
+[![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)](https://mochajs.org)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheuszanellasma&show_icons=true&theme=dark&locale=pt-br)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszanellasma&layout=compact&theme=dark&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas)
 
 ---
 
