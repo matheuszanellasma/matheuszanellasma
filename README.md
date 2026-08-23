@@ -40,6 +40,7 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 - Suíte end-to-end cobrindo API, Web e testes de carga com k6
 - Page Object Model e fixtures customizadas
 - Pipeline de CI/CD com execução segmentada por tags (@smoke)
+- Injeção de estado de autenticação (via addInitScript) para otimizar a execução dos testes.
 
 **Tecnologias**
 - Playwright · k6 · JavaScript · GitHub Actions · Faker.js
@@ -54,6 +55,8 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 - Testes de regras de validação de negócio
 - Page Object com separação .resource/.robot
 - CI/CD com Chrome headless
+- Injeção de estado de autenticação para otimizar a execução dos testes.
+
 
 **Tecnologias**
 - Robot Framework · Selenium · RequestsLibrary · FakerLibrary · GitHub Actions
