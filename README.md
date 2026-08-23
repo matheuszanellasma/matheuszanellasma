@@ -36,9 +36,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 
 [![Projeto ServeRest Playwright](https://img.shields.io/badge/Projeto-ServeRest%20Playwright-green?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-serverest-playwright)
 
-**Escopo**
-- Web · API · Performance
-
 **Atividades**
 - Suíte end-to-end cobrindo API, Web e testes de carga com k6
 - Page Object Model e fixtures customizadas
@@ -52,9 +49,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 ### 🤖 Automação Web e API — ServeRest (Robot Framework)
 
 [![Projeto ServeRest Robot](https://img.shields.io/badge/Projeto-ServeRest%20Robot%20Framework-orange?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-serverest-robot)
-
-**Escopo**
-- Web · API
 
 **Atividades**
 - Testes de regras de validação de negócio
@@ -70,9 +64,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 
 [![Projeto CodeceptJS](https://img.shields.io/badge/Projeto-ServeRest%20CodeceptJS-blue?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-web-codecptjs)
 
-**Escopo**
-- Web
-
 **Atividades**
 - Cenários tradicionais e BDD (Gherkin) na mesma suíte
 - Page Object orientado a classes (ES Modules)
@@ -87,9 +78,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 
 [![Projeto AutomationPractice Playwright](https://img.shields.io/badge/Projeto-AutomationPractice%20Playwright-green?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-web-playwright)
 
-**Escopo**
-- Web (e-commerce de testes)
-
 **Tecnologias**
 - Playwright · JavaScript
 
@@ -99,9 +87,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 
 [![Projeto AutomationPractice Cypress](https://img.shields.io/badge/Projeto-AutomationPractice%20Cypress-blue?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-web-cypress)
 
-**Escopo**
-- Web (e-commerce de testes)
-
 **Tecnologias**
 - Cypress · JavaScript
 
@@ -110,9 +95,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 ### 🔗 Testes de API — Restful-Booker (Cypress)
 
 [![Projeto Cypress API](https://img.shields.io/badge/Projeto-Restful--Booker%20Cypress-blue?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-api-cypress)
-
-**Escopo**
-- API
 
 **Atividades**
 - Filtragem por tags (@smoke) com cypress-grep
@@ -128,9 +110,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 
 [![Projeto Playwright API](https://img.shields.io/badge/Projeto-Restful--Booker%20Playwright-green?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-api-playwright)
 
-**Escopo**
-- API
-
 **Atividades**
 - Arquitetura orientada a classes (UsuariosAPI, LoginAPI, ProdutosAPI, CarrinhoAPI)
 - Fixtures compartilhadas e geração de dados com Faker.js
@@ -143,9 +122,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 ### 📱 Automação Mobile — Qazandofood (Maestro)
 
 [![Projeto Maestro](https://img.shields.io/badge/Projeto-Qazandofood%20Maestro-purple?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-mobile-maestro)
-
-**Escopo**
-- Mobile (Android/iOS)
 
 **Tecnologias**
 - Maestro
