@@ -58,6 +58,8 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 
 - Manual Testing · Test Planning · Test Cases · Bug Reporting · Jira · Gherkin
 
+---
+
 ### 🌐 Automação Web, API e Performance — ServeRest (Playwright)
 
 [![Projeto ServeRest Playwright](https://img.shields.io/badge/Projeto-ServeRest%20Playwright-green?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-serverest-playwright)
