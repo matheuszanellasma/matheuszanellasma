@@ -35,6 +35,29 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 
 ## 🚀 Projetos em Destaque
 
+### 🧪 Testes Manuais — English QA (QAzando)
+
+[![Projeto Testes Manuais English QA](https://img.shields.io/badge/Projeto-Testes%20Manuais%20English%20QA-blue?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/testes-manuais-english-qa)
+
+**Atividades**
+
+- Trabalho voluntário de QA em parceria com a QAzando na plataforma English QA.
+- Planejamento e execução de testes manuais end-to-end em 9 suítes funcionais.
+- Elaboração de 121 casos de teste, com pré-condições, passos, resultados esperados, Gherkin e prioridades.
+- Documentação e reporte de bugs, incluindo 6 de severidade alta.
+- Gestão dos testes e organização das sprints por suíte no Jira.
+
+**Resultados**
+
+- 9 suítes de teste
+- 121 casos de teste documentados
+- 116 aprovados e 5 reprovados
+- 8 bugs reportados
+
+**Tecnologias e práticas**
+
+- Manual Testing · Test Planning · Test Cases · Bug Reporting · Jira · Gherkin
+
 ### 🌐 Automação Web, API e Performance — ServeRest (Playwright)
 
 [![Projeto ServeRest Playwright](https://img.shields.io/badge/Projeto-ServeRest%20Playwright-green?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-serverest-playwright)
