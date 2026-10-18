@@ -91,20 +91,6 @@ Profissional em Quality Assurance, unindo formação em Ciência da Computação
 
 ---
 
-### 🧩 Automação Web — ServeRest (CodeceptJS)
-
-[![Projeto CodeceptJS](https://img.shields.io/badge/Projeto-ServeRest%20CodeceptJS-blue?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-web-codecptjs)
-
-**Atividades**
-- Cenários tradicionais e BDD (Gherkin) na mesma suíte
-- Page Object orientado a classes (ES Modules)
-- Relatórios com Mochawesome
-
-**Tecnologias**
-- CodeceptJS · Playwright · BDD/Gherkin · GitHub Actions
-
----
-
 ### 🛒 Automação Web — AutomationPractice (Playwright)
 
 [![Projeto AutomationPractice Playwright](https://img.shields.io/badge/Projeto-AutomationPractice%20Playwright-green?style=for-the-badge&logo=github)](https://github.com/matheuszanellasma/automacao-web-playwright)
